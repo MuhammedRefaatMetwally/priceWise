@@ -1,8 +1,5 @@
 
-
-3. 🔋 [Features](#features)
-
-
+<h1>PriceWise E-Commerce App </h1>
 ## <a name="features">🔋 Features</a>
 
 👉 **Header with Carousel**: Visually appealing header with a carousel showcasing key features and benefits
